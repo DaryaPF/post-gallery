@@ -1,5 +1,6 @@
 # Summary
 
+* [Post Gallery User Manual](post-gallery-user-manual.md)
 * [Privacy Policy](privacy-policy.md)
 * [Table of contents](table-of-contents.md)
 * [1. Introduction](README.md)

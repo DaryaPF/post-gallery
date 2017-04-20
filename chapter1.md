@@ -13,30 +13,21 @@ You can use Post Gallery as your very own personalized yearbook, a friendship bo
 And it doesn’t end there. You can also use Post Gallery as a scrapbook, a family book, a fan page book, a memory book or simply a photo book.
 
 **  
-Which devices does the app support?**  
-You can use Post Gallery on any mobile, tablets and laptop devices that have browser.
+Which devices does the app support?**
+
+You can use Post Gallery on any mobile, tablets and laptop devices through browser.
+
+**How Post Gallery collect and store data?**
+
+You go to [https://www.post.gallery](https://www.post.gallery) and login with Facebook. To get app working, you need give permissions for Post Gallery to receive: your public profile, email address and timeline posts. If you will not give permissions, you will not let the app collect your Timeline, prepare gallery and share it with friends on Facebook.
+
+After you logged in and gave permissions, service robots collect your Facebook timeline to show it to you in Post Gallery Home screen. 
+
+You may want to be sure that your personal posts won't get into the wrong hands. Let us assure you that your data will be safe. First of all, we use encrypted protocol SSL to transfer all data through the Internet. To access the backup data, sign in to your account by providing facebook login mechanism. Post gallery doesn't get any user emails or passwords .
+
+Furthermore, we store your data on our secure servers in encrypted form. Only you have access to your encrypted data unless your share your gallery in Facebook.
 
   
-**How it works?**  
-Acronis Cloud mobile app connects to Acronis Cloud via the Internet and allows you to access data  
-backed up using Acronis Backup & Recovery. Note that Acronis Cloud mobile app is useless without  
-Acronis Cloud, so you need to subscribe to the service first.  
-Acronis Cloud mobile app allows you to:  
-  
-Browse and open files stored in file backups on Acronis Cloud.  
-Note, that you cannot browse disk and partition backups, you can only view them in the backup list.  
- Add files to Favorites \(in Android\) or Pinned \(in iOS\) to keep them up-to-date and get offline  
-access.  
- View the list of previous versions of backed up files and open a chosen version on your mobile  
-device.  
-What Acronis Cloud is and how to get it  
-Acronis Cloud is a secure remote storage for storing your data. It is available via the Internet from  
-any computer or mobile device by using one of our applications or an ordinary Web browser. Acronis  
-Cloud contains files and folders of your online backups.  
-To get 250 GB of free space on Acronis Cloud:  
-1. Install Acronis Backup & Recovery on your computer.  
-2. Subscribe to the Acronis Cloud service at our website: [https://www.acronis.com/my/backup-](https://www.acronis.com/my/backup-)  
-recovery-online/.**  
-How much does the service cost?**  
-Acronis Cloud for mobile devices is available for free.
+**How much does the service cost?**  
+Post Gallery web application is available for free.
 
