@@ -9,7 +9,7 @@
 * [2. App overview](app-review.md)
   * [2.1 Home screen](app-review.md)
   * [2.2 Gallery Editor Screen](22-gallery-editor-screen.md)
-  * 2.3 Gallery Preview
+  * [2.3 Gallery Preview](23-gallery-preview.md)
   * 2.4 Share
   * 2.5 Create New Gallery
   * 2.6 Profile
