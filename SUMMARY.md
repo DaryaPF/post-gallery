@@ -10,7 +10,7 @@
   * [2.1 Home screen](app-review.md)
   * [2.2 Gallery Editor Screen](22-gallery-editor-screen.md)
   * [2.3 Gallery Publish](23-gallery-preview.md)
-  * 2.4 Share
+  * [2.4 Share](24-share.md)
   * 2.5 Create New Gallery
   * 2.6 Profile
   * 2.7 Contact Us
