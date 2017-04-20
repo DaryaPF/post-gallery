@@ -1,6 +1,6 @@
 # 2. App overview
 
-The Post Gallery interface consists of next screens: 
+The Post Gallery interface consists of next screens:
 
 1. [Home Screen](/21-home-screen.md)
 2. Gallery Editor Screen
@@ -20,7 +20,20 @@ Screen consists of next functional parts:
 
 1. Post Gallery Home button
 2. User Profile photo opens Profile screen
-3. Section Add Gallery: type newgallery name here and click Enter and you will be redirected to Create New Gallery screen
-4. 
-![](/assets/Home Screen.png)
+3. Section Add Gallery: type name for new gallery here and press Enter and you will be redirected to Create New Gallery screen
+   Type gallery title and press Enter to create new gallery
+
+4. is a list of demo galleries. You can add your own galleries.![](/assets/Home Screen.png)
+
+5. Search posts from your feed Type search phrase to find posts you need
+
+6. User smart filters You can use these filters to ease your search
+
+7. Click on post text to select post and copy it to new or existing gallery
+
+
+
+
+
+
 
