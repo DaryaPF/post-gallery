@@ -3,7 +3,7 @@
 The Post Gallery interface consists of next screens:
 
 1. [Home Screen](/21-home-screen.md)
-2. Gallery Editor Screen
+2. [Gallery Editor Screen](/22-gallery-editor-screen.md)
 3. Gallery Preview
 4. Share
 5. Create New Gallery
@@ -27,12 +27,12 @@ Screen consists of next functional parts:
 
 5. Search posts from your feed: Type search phrase to find posts you need.
 
-6. User smart filters: You can use these filters to ease your search.   
-   Filter posts by source social network using first group of filters \(Facbook, Instagram icons\).   
-   Filter posts by content type \(video, images, shared content, texts, etc.\).   
+6. User smart filters: You can use these filters to ease your search.  
+   Filter posts by source social network using first group of filters \(Facbook, Instagram icons\).  
+   Filter posts by content type \(video, images, shared content, texts, etc.\).  
    Also you can change the way posts shown: icons in right part of filters panel changed view from grid to list and vice versa.
 
-7. Posts Feed: Click on post text to select post and copy it to new or existing gallery.  
+7. Posts Feed: Click on post text to select post and copy it to new or existing gallery.
 
 
 
