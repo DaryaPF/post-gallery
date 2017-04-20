@@ -2,8 +2,8 @@
 
 To get started go to [https://www.post.gallery](https://www.post.gallery) and login with Facebook:
 
-1.  click "Login with Facebook" button.![](/assets/login.png)
-2. In appeared window enter your Facebook credentials or click "Create New Account"
+1. click "Login with Facebook" button.![](/assets/login.png)
+2. In appeared window enter your Facebook credentials or click "Create New Account"  
    ![](/assets/Снимок экрана от 2017-04-20 13:04:39.png)
 
 3. Click "Continue" button to give permissions.  
@@ -12,7 +12,15 @@ To get started go to [https://www.post.gallery](https://www.post.gallery) and lo
 
 After you logged in Post Gallery, you will got into Post Gallery Home screen and after few minutes see your Facebook posts there.
 
-To get also post and all related info from Instagram account, go to User Profile menu by click on user profile photo in left side menu and select menu item called "Profile". 
+To get also post and all related info from Instagram account, go to User Profile menu by click on user profile photo in left side menu and select menu item called "Profile".
+
+![](/assets/profile_menu.png)
+
+In opened Profile screen click "Add Instagram account"
+
+![](/assets/profile.png)Login in Instagram and Instagram account record will appear on these screen. After that actions Instagram posts also will be collected by  robot and appear on your Home Screen Timeline.
+
+
 
 
 
