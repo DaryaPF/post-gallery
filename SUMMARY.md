@@ -14,4 +14,5 @@
   * 2.5 Create New Gallery
   * 2.6 Profile
   * 2.7 Contact Us
+* 3. How To
 
