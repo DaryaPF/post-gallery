@@ -2,7 +2,7 @@
 
 Last updated: May 18, 2016
 
-Post Gallery \("us", "we", or "our"\) operates the [https://www.post.gallerywebsite](https://www.post.gallerywebsite) \(the "Service"\).
+Post Gallery \("us", "we", or "our"\) operates the [https://www.post.gallery website](https://www.post.gallerywebsite) \(the "Service"\).
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
