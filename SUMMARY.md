@@ -9,7 +9,7 @@
 * [2. App overview](app-review.md)
   * [2.1 Home screen](app-review.md)
   * [2.2 Gallery Editor Screen](22-gallery-editor-screen.md)
-  * [2.3 Gallery Preview](23-gallery-preview.md)
+  * [2.3 Gallery Publish](23-gallery-preview.md)
   * 2.4 Share
   * 2.5 Create New Gallery
   * 2.6 Profile
@@ -18,4 +18,5 @@
   * [3.1 How to remove default galleries?](how-to.md)
   * [3.2 How to create gallery?](32-how-to-create-gallery.md)
   * [3.3 How to logout?](33-how-to-logout.md)
+  * 3.4 How to edit gallery description?
 

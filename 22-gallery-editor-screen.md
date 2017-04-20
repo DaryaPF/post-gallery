@@ -1,8 +1,8 @@
 ### 2.2 Gallery Editor Screen
 
-Post Gallery Gallery Editor screen looks like you see on image below.
+Post Gallery Editor screen looks like you see on image below.
 
-This screen opens by click on gallery title in left menu. 
+This screen opens by click on gallery title in left menu.
 
 Screen consists of next functional parts:
 
@@ -11,7 +11,7 @@ Screen consists of next functional parts:
 2. ![](/assets/pencil.png)  Edit button opens gallery info for editing. Here you can add gallery description and change gallery title.  
    ![](/assets/gallery_info.png)
 
-3. Publish button opens Gallery Preview
+3. Publish button opens [Gallery Publish](/23-gallery-preview.md)
 
 ![](/assets/gallery_editor.png)
 

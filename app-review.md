@@ -4,7 +4,7 @@ The Post Gallery interface consists of next screens:
 
 1. [Home Screen](/21-home-screen.md)
 2. [Gallery Editor Screen](/22-gallery-editor-screen.md)
-3. Gallery Preview
+3. [Gallery Preview](/23-gallery-preview.md)
 4. Share
 5. Create New Gallery
 6. Profile
