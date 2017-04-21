@@ -20,5 +20,5 @@
   * [3.3 How to logout?](33-how-to-logout.md)
   * [3.4 How to edit gallery description?](34-how-to-edit-gallery-description.md)
   * [3.5 How to add new posts to a gallery?](35-how-to-add-new-posts-to-a-gallery.md)
-  * [3.6 How to customize your gallery on mobile](36-how-to-customize-your-gallery-on-mobile.md)
+  * [3.6 How to customize your gallery on mobile?](36-how-to-customize-your-gallery-on-mobile.md)
 
