@@ -18,6 +18,6 @@
   * [3.1 How to remove default galleries?](how-to.md)
   * [3.2 How to create gallery?](32-how-to-create-gallery.md)
   * [3.3 How to logout?](33-how-to-logout.md)
-  * 3.4 How to edit gallery description?
+  * [3.4 How to edit gallery description?](34-how-to-edit-gallery-description.md)
   * 3.5 How to add new posts to a gallery?
 
