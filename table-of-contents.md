@@ -5,10 +5,10 @@
    [1.2 How to get started?](/12-how-to-get-started.md)
 2. [App overview](/app-review.md)  
    [2.1 Home Screen](/app-review.md)  
-   [2.2 Create New Gallery    
+   [2.2 Create New Gallery      
    ](/25-create-new-gallery.md)[2.3 Gallery Editor Screen](/22-gallery-editor-screen.md)  
    [2.4 Gallery Publish](/23-gallery-preview.md)  
-   [2.5 Share screens  
+   [2.5 Share   
        ](/25-share.md)
 
 3. 
