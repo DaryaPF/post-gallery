@@ -6,8 +6,8 @@ The Post Gallery interface consists of next screens:
 2. [Gallery Editor Screen](/22-gallery-editor-screen.md)
 3. [Gallery Preview](/23-gallery-preview.md)
 4. [Create New Gallery](/25-create-new-gallery.md)
-5. Profile
-6. Contact Us
+5. [Profile](/26-profile.md)
+6. [Contact Us](/26-contact-us.md)
 
 ### 2.1 Home Screen
 
