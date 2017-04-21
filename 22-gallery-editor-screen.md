@@ -1,4 +1,4 @@
-### 2.2 Gallery Editor Screen
+### 2.3 Gallery Editor Screen
 
 Post Gallery Editor screen looks like you see on image below.
 

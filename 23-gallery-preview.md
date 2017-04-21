@@ -1,4 +1,4 @@
-### 2.3 Gallery Publish
+### 2.4 Gallery Publish
 
 Post Gallery Publish screen looks like you see on image below.
 
@@ -21,6 +21,7 @@ Screen consists of next functional parts:
 4. There are options to enable showing post description, likes and comments![](/assets/publish.png)
 
 5. You can also customize photo frame by selecting diffrent border types.
+
 6. There is an option for changing book main color. You just need select color from palette. 
 7. Share button let you share your gallery with friends in social networks and send it by email: ![](/assets/share_block.png)
 8. Preview button opens page, which will be shared with your friends in social networks:![](/assets/preview_share.png)

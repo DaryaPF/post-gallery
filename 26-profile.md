@@ -1,4 +1,4 @@
-### 2.6 Profile Screen
+### 2.6 Profile
 
 Post Gallery Profile screen looks like you see on image below.
 

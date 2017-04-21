@@ -1,4 +1,4 @@
-### 2.4 Share screens
+### 2.5 Share screens
 
 Post Gallery Share pop-up windows can be opened from [Gallery Publish](/23-gallery-preview.md) share block ![](/assets/share_block.png) \(see [Gallery Publish](/23-gallery-preview.md) item 7\).
 
