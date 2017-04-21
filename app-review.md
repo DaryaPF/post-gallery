@@ -3,11 +3,13 @@
 The Post Gallery interface consists of next screens:
 
 1. [Home Screen](/21-home-screen.md)
-2. [Gallery Editor Screen](/22-gallery-editor-screen.md)
-3. [Gallery Preview](/23-gallery-preview.md)
-4. [Create New Gallery](/25-create-new-gallery.md)
-5. [Profile](/26-profile.md)
-6. [Contact Us](/26-contact-us.md)
+2. [Create New Gallery](https://www.gitbook.com/book/daryapovalyaeva/post-gallery-user-manual/edit#)
+
+3. [Gallery Editor Screen](/22-gallery-editor-screen.md)
+4. [Gallery Publish](/23-gallery-preview.md)
+5. [Share](/25-share.md)
+6. [Profile](/26-profile.md)
+7. [Contact Us](/26-contact-us.md)
 
 ### 2.1 Home Screen
 
