@@ -6,7 +6,7 @@
 2. Put the mouse over gallery title
 3. Click button ![](/assets/configure_btn.png)
    ![](/assets/left_menu_mouse_over.png)
-4. In pop-up window   
+4. In pop-up window  
    1. change gallery title  
    2. change gallery description  
    3. change gallery icon  
@@ -20,8 +20,14 @@
 1. Swipe right to open main menu.
 2. Click on gallery title to open Gallery Editor screen![](/assets/IMG_2542_iphone7plusjetblack_portrait.png)
 3. Click ![](/assets/pencil.png) in right top corner
-4. In pop-up   
+4. In pop-up  
+   1. change gallery title   
+   2. change gallery description   
+   3. change gallery icon   
+   4. Save changes  
+   5. Here you also can remove gallery
 
-5. 
+
+
 
 
