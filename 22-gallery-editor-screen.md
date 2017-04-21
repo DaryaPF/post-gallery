@@ -2,7 +2,7 @@
 
 Post Gallery Editor screen looks like you see on image below.
 
-This screen opens by click on gallery title in left menu.
+This screen opens by click on gallery title in [Home screen](/app-review.md) left menu.
 
 Screen consists of next functional parts:
 

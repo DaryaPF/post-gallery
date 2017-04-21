@@ -12,7 +12,7 @@
   * [2.3 Gallery Editor Screen](22-gallery-editor-screen.md)
   * [2.4 Gallery Publish](23-gallery-preview.md)
   * [2.5 Share](25-share.md)
-  * 2.6 Profile
+  * [2.6 Profile](26-profile.md)
   * [2.7 Contact Us](26-contact-us.md)
 * [3. How To](how-to.md)
   * [3.1 How to remove default galleries?](how-to.md)
