@@ -10,7 +10,7 @@
    1. change gallery title  
    2. change gallery description  
    3. change gallery icon  
-   4. Save  
+   4. Save changes  
    5. Here you also can remove gallery
 
    ![](/assets/edit_desc.png)
@@ -26,8 +26,6 @@
    3. change gallery icon   
    4. Save changes  
    5. Here you also can remove gallery
-
-
 
 
 
