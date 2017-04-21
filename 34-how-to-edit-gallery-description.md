@@ -25,7 +25,7 @@
    2. change gallery description   
    3. change gallery icon   
    4. Save changes  
-   5. Here you also can remove gallery
+   5. Here you also can remove gallery![](/assets/IMG_2543_iphone7plusjetblack_portrait.png)
 
 
 
