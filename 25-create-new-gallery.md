@@ -24,8 +24,12 @@ Let's look on this screen, if you select some post by click on it.
 
 1. You can select multiple posts and add them to collection. 
    Selected posts are highlighted with grey color![](/assets/create_new_selected.png)
-2. In the bottom you can see a message with info about how many posts selected and planned to be added to the gallery.
+2. In the bottom you can see a message with info about how many posts are selected and planned to be added to the gallery.
+   By click on cross button in left side you can remove selection. 
+
 3. Plus button will add selected posts to the gallery.
+
+#### !!! Draw your attention,  that this screen is absent in mobile version of the app.
 
 
 

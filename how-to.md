@@ -1,15 +1,14 @@
 # 3. How To
 
-The Post Gallery interface consists of next screens:
+### 3.1 How to remove default galleries?
 
-1. [Home Screen](/21-home-screen.md)
-2. [Gallery Editor Screen](/22-gallery-editor-screen.md)
-3. [Gallery Preview](/23-gallery-preview.md)
-4. [Create New Gallery](/25-create-new-gallery.md)
-5. Profile
-6. Contact Us
+As we see in [Home screen](/app-review.md)  left menu there are some default galleries: Nature, Food and Fashion.
 
-### 2.1 Home Screen
+To remove gallery:
 
+1. Go to  Home screen  left menu 
+2. Put the mouse over gallery title
+3. Click button ![](/assets/trash_icon.png)
 
+![](/assets/left_menu_mouse_over.png)
 
