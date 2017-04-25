@@ -1,4 +1,4 @@
-#  ![center](/assets/logo-400.png)
+# ![center](/assets/logo-400.png)
 
 ---
 
